@@ -28,7 +28,7 @@ Dentro de nuestra terminal podemos: revisar nuestra estructura de archivos, aña
 
 "Make Directory": Crea una nueva carpeta en el directorio donde nos encontramos actualmente.
 ```bash
-  $ mkdir [nombre de la carpeta]
+  $ mkdir [introduction]
 ```
 
 "Touch" creará un nuevo archivo.
@@ -44,7 +44,7 @@ Dentro de nuestra terminal podemos: revisar nuestra estructura de archivos, aña
 
 ## Ejercicio
 
-En este ejercicio crearemos un nuevo repositorio en Github y a partir de la linea de comandos crearemos un nuevo archivo y lo agregaremos a nuestro nuevo repositorio.
+<!-- En este ejercicio crearemos un nuevo repositorio en Github y a partir de la linea de comandos crearemos un nuevo archivo y lo agregaremos a nuestro nuevo repositorio. -->
 
 Iniciaremos creando una carpeta desde la consola llamada: "CarpetaHenry"
 
