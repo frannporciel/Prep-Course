@@ -1,8 +1,5 @@
 // Do not change any of the function names
 
-const { clear } = require("@11ty/eleventy/src/TemplateCache");
-const { getWorkingDir } = require("@11ty/eleventy/src/TemplatePath");
-const { stringify } = require("git-url-parse");
 
 function mayuscula(nombre) {
   //La función recibe un nombre y debe devolver el mismo que recibe pero con su primer letra en mayúscula

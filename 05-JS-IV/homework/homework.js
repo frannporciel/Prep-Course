@@ -1,7 +1,5 @@
 // No cambies los nombres de las funciones.
 
-const { add } = require("@11ty/eleventy/src/TemplateCache");
-const { arrayReplaceAt } = require("markdown-it/lib/common/utils");
 
 function crearGato(nombre, edad) {
   // Crear un nuevo objeto con la propiedad "nombre" y el valor definido como el argumento "nombre".

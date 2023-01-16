@@ -1,6 +1,5 @@
 // No cambies los nombres de las funciones.
 
-const { startsWithSubPath } = require("@11ty/eleventy/src/TemplatePath");
 
 function devolverPrimerElemento(array) {
   // Devuelve el primer elemento de un  array (pasado por parametro)
